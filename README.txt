@@ -1,30 +1,43 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Charmaine Wong Portfolio
+
+This repository contains the source for Charmaine Wong's photography portfolio website.
+
+Site structure:
+
+	Home
+		A masonry-style landing wall introducing the overall visual mood.
+
+	Work
+		An index page linking to curated categories.
+
+	Food & Spaces
+		Photography focused on ambience, interiors, details, and food.
+
+	People
+		Editorial and portrait-led work.
+
+	About
+		A short biography, portrait, and contact details.
 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+Project notes:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+	- The site is a static HTML/CSS portfolio.
+	- Main custom styling lives in assets/css/site.css.
+	- Image content is organized inside images/home, images/food-spaces, images/people, images/about, and images/icons.
+	- Tokyo, 2025 and Hong Kong, 2025 are intentionally kept hidden for now.
 
-(* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+How to preview locally:
+
+	- Open index.html directly in a browser, or
+	- Use a simple local server from the project folder.
 
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Framework origin:
+		HTML5 UP Dimension (original starter template)
 
 	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Font Awesome
