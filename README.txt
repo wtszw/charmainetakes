@@ -25,6 +25,7 @@ Project notes:
 	- The site is a static HTML/CSS portfolio.
 	- Main custom styling lives in assets/css/site.css.
 	- Image content is organized inside images/home, images/food-spaces, images/people, images/about, and images/icons.
+	- The browser tab icon is set from images/icons/DSF9428.jpg.
 	- Tokyo, 2025 and Hong Kong, 2025 are intentionally kept hidden for now.
 
 
